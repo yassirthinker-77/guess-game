@@ -1,0 +1,3 @@
+this is little geme 
+you should to guess the random number 
+you have 3 chance
